@@ -1,3 +1,8 @@
 data/
 *.parquet
 *.csv
+*.pkl
+*.joblib
+*.pt
+__pycache__/
+.ipynb_checkpoints/
